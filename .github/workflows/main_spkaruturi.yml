@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'spkaruturi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6E18FAB7E1F49FBA6C72BA10E03814C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8CD667F201F471D9E770781CF87F1D7 }}
           package: '*.jar'
